@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cshgiser
-- 👀 I’m interested in GIS
-- 🌱 I’m currently learning GIS and RS
+- 👀 I’m interested in GIS/RS/Soil Science
+- 🌱 I’m currently learning RS and Soil science
 - 💞️ I’m looking to collaborate on these fields
 - 📫 How to reach me: email: csh_giser@163.com
 
