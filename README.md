@@ -25,11 +25,13 @@ My long-term goal is to develop **data-driven tools** that help farmers **manage
 
 ## 🌟 Research Highlights
 
-### 🛰️ *High-resolution surface and rootzone soil moisture over US cropland: A novel framework assimilating multi-source remote sensing data, machine learning, and the Layered Green and Ampt Infiltration with Redistribution model* **Remote Sensing of Environment (2026)** **Cai, S.**, Xu, Y., Yang, Z., Crow, W. T., Zhang, Z., Shang, J., Liu, J., La Follette, P., Reberg-Horton, C., Schomberg, H., *et al.* In this work, I developed a cutting-edge framework to produce high-resolution surface and rootzone soil moisture data specifically for US croplands. By assimilating **multi-source remote sensing data** with a **Layered Green and Ampt Infiltration model** and **Machine Learning**, the framework bridges the gap between satellite observations and field-scale agricultural needs.  
+### 🛰️ *High-resolution surface and rootzone soil moisture over US cropland: A novel framework assimilating multi-source remote sensing data, machine learning, and the Layered Green and Ampt Infiltration with Redistribution model* **Remote Sensing of Environment (2026)** **Cai, S.**, Xu, Y., Yang, Z., Crow, W. T., Zhang, Z., Shang, J., Liu, J., La Follette, P., Reberg-Horton, C., Schomberg, H., *et al.* 
+
+In this work, I developed a cutting-edge framework to produce high-resolution surface and rootzone soil moisture data specifically for US croplands. By assimilating **multi-source remote sensing data** with a **Layered Green and Ampt Infiltration model**, the framework bridges the gap between satellite observations and field-scale agricultural needs.  
 
 🔗 **Code & Data Repository:** [cshgiser/HRSM](https://github.com/cshgiser/HRSM)  
 
-🧩 *Skills highlighted:* `Data Assimilation` · `Machine Learning` · `Hydrological Modeling` · `Rootzone Soil Moisture` · `Big Data Analytics` · `Crop Science`
+🧩 *Skills highlighted:* `Google Earth Engine` · `Colab` · `Python` ·  `Data Assimilation` · `Machine Learning` · `Hydrological Modeling` · `Big Data Analytics` · `Crop Science`
 
 ---
 
