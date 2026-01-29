@@ -46,13 +46,13 @@ This multi-method framework revealed the **nonstationary frequency and intensity
 
 ## 📚 Publications
 
-See my ![google scholar](https://scholar.google.com/citations?hl=en&user=JtXwEZsAAAAJ) page.
+See my [google scholar](https://scholar.google.com/citations?hl=en&user=JtXwEZsAAAAJ) page.
 
 ---
 
 ## ⚙️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cshgiser&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshgiser&layout=compact)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=cshgiser&show_icons=true&theme=default)  
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cshgiser&layout=compact)
 
 ---
 
